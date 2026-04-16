@@ -1,6 +1,0 @@
-node_modules/
-dist/
-.claude-gemini/sessions/
-.claude-gemini/*.tmp
-npm-debug.log*
-.DS_Store
